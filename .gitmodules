@@ -1,3 +1,6 @@
 [submodule "themes/kraiklyn"]
 	path = themes/kraiklyn
 	url = https://github.com/jsnjack/kraiklyn.git
+[submodule "hairuo.github.io"]
+	path = hairuo.github.io
+	url = git@github.com:hairuo/hairuo.github.io.git
