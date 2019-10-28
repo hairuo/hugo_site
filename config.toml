@@ -3,3 +3,18 @@ languageCode = "en-us"
 title = "hairuo's homepage"
 theme = "kraiklyn"
 publishDir = "hairuo.github.io"
+
+[params]
+externalTitle = "Kraiklyn theme"
+sidebarColor = "default"
+customCss = []
+
+[[menu.shortcuts]]
+name = "Kraiklyn on Github"
+url = "https://github.com/jsnjack/kraiklyn"
+weight = 10
+
+[[menu.shortcuts]]
+name = "Hugo docs"
+url = "https://gohugo.io/documentation/"
+weight = 20
